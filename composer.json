@@ -1,0 +1,22 @@
+{
+    "name": "ftl/common",
+    "type": "library",
+    "description": "Common files for Follow The Light project",
+    "homepage": "",
+    "license": [
+      "MIT",
+      "GPL-3.0"
+    ],
+    "authors": [
+        {
+            "name": "libreman",
+            "email": "",
+            "homepage": "http://www.librebyte.net"
+        }
+    ],
+    "extra": {
+        "branch-alias": {
+            "dev-master": "master"
+        }
+    }
+}
